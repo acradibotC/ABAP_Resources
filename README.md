@@ -1,2 +1,1 @@
-# ABAP_Resources
-Resource of ABAP Code
+# ABAP Modern Programing
